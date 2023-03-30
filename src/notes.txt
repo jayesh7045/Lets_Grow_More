@@ -1,0 +1,3 @@
+What are the props in React ?
+ --> Props stands for properties
+ 
